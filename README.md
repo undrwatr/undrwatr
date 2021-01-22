@@ -1,4 +1,9 @@
-### Hi there 👋
+Senior Network Engineer for a specialty retailer. Spend most of my time automating processes and make everything work perfectly. 
+
+Certified CWNP, CISSP, CCNP
+
+I blog at [remembertheview.com](https://www.remembertheview.com) and I tweet at [@undrwatr](https://twitter.com/undrwatr)
+
 
 <!--
 **undrwatr/undrwatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
