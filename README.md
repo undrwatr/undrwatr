@@ -1,4 +1,4 @@
-Senior Network Engineer for a specialty retailer. Spend most of my time automating processes and make everything work perfectly. 
+Senior Network Engineer for a specialty retailer. We are a small team so the more I can automate the more time I have to spend on other projects. I also manage the security infrastructure for my company along with wireless and virtualization.
 
 Certified CWNP, CISSP, CCNP
 
