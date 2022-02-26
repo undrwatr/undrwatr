@@ -2,7 +2,7 @@ Senior Network Engineer for a specialty retailer. We are a small team so the mor
 
 Certified CWNP, CISSP, CCNP
 
-I blog at [remembertheview.com](https://www.remembertheview.com) and I tweet at [@undrwatr](https://twitter.com/undrwatr)
+I tweet at [@undrwatr](https://twitter.com/undrwatr)
 
 
 <!--
